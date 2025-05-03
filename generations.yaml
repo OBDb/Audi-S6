@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (C4)"
+    start_year: 1994
+    end_year: 1997
+    description: "The original Audi S6 was based on the C4 platform, featuring a 2.2L turbocharged five-cylinder engine producing 227 HP, or a 4.2L V8 with 286 HP depending on the market. Available in sedan and Avant (wagon) body styles, it featured subtle exterior enhancements, sport suspension, and larger brakes compared to the standard A6. The C4 S6 established the foundation for Audi's mid-size performance sedan and wagon offerings."
+
+  - name: "Second Generation (C5)"
+    start_year: 1999
+    end_year: 2003
+    description: "The C5 S6 was exclusively powered by a 4.2L V8 engine producing 340 HP, paired with a five-speed Tiptronic automatic transmission and quattro all-wheel drive. Available in both sedan and Avant body styles, it featured more distinctive styling elements compared to its predecessor, including polished aluminum exterior mirrors and unique wheels."
+
+  - name: "Third Generation (C6)"
+    start_year: 2006
+    end_year: 2011
+    description: "The C6 S6 featured a significant powertrain upgrade with a Lamborghini-derived 5.2L V10 engine producing 435 HP, paired with a six-speed Tiptronic automatic transmission. Available in sedan and Avant body styles, it featured more aggressive styling with wider fenders, distinctive front and rear bumpers, and quad exhaust tips. The V10 engine provided a unique character and exhaust note that distinguished it from competitors."
+
+  - name: "Fourth Generation (C7)"
+    start_year: 2012
+    end_year: 2018
+    description: "The C7 S6 returned to V8 power with a twin-turbocharged 4.0L engine producing 420 HP (later increased to 450 HP), paired with a seven-speed S tronic dual-clutch transmission. Built on the MLB platform, it featured cylinder deactivation technology for improved fuel efficiency. The exterior continued the tradition of subtle performance enhancements while the interior offered a blend of luxury and sportiness with distinctive S elements."
+
+  - name: "Fifth Generation (C8)"
+    start_year: 2019
+    end_year: null
+    description: "The current C8 S6 represents a significant departure from tradition in some markets, featuring a twin-turbocharged 2.9L V6 petrol engine in some regions and a 3.0L V6 TDI diesel with electric compressor in others. Power outputs range from 344 HP to 450 HP depending on the market and engine. The exterior features more distinctive S-specific styling elements than previous generations, while the interior offers Audi's latest technology including dual touchscreens and digital instrumentation. Throughout its evolution, the S6 has balanced impressive performance with everyday usability and understated luxury."

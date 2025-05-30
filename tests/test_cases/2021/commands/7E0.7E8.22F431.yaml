@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- response: 7E80562F4310649
+  expected_values:
+    AUDI_CLR_DIST: 1609
+- response: 7E80562F43106EE
+  expected_values:
+    AUDI_CLR_DIST: 1774
+- response: 7E80562F4310726
+  expected_values:
+    AUDI_CLR_DIST: 1830

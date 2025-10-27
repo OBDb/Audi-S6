@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221152
+test_cases:
+- expected_values:
+    AUDI_EM_RPM_2: 100
+  response: 7E80562115205D3
+- expected_values:
+    AUDI_EM_RPM_2: 100
+  response: 7E80562115205FB
+- expected_values:
+    AUDI_EM_RPM_2: 100
+  response: '7E8056211520600'

@@ -16,5 +16,5 @@ test_cases:
     AUDI_ODO_HD: 54742.527
   response: 7E80762116003434DFF
 - expected_values:
-    AUDI_ODO_HD: 55312.615
-  response: 7E807621160034C00E7
+    AUDI_ODO_HD: 55378.655
+  response: 7E807621160034D02DF

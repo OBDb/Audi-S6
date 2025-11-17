@@ -29,7 +29,7 @@ test_cases:
     7E8100C41700200000C
     7E8216F000000000000
 - expected_values:
-    BP_A_ACT: 99.71875
+    BP_A_ACT: 100.03125
     BP_A_ACT_SUP: 1
     BP_A_CMD: 0
     BP_A_CMD_SUP: 0
@@ -41,91 +41,7 @@ test_cases:
     BP_B_SUP: 0
   response: |-
     7E8100C41700200000C
-    7E82177000000000000
-- expected_values:
-    BP_A_ACT: 99.78125
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 0
-    BP_A_CMD_SUP: 0
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C41700200000C
-    7E82179000000000000
-- expected_values:
-    BP_A_ACT: 99.875
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 0
-    BP_A_CMD_SUP: 0
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C41700200000C
-    7E8217C000000000000
-- expected_values:
-    BP_A_ACT: 99.9375
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 0
-    BP_A_CMD_SUP: 0
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C41700200000C
-    7E8217E000000000000
-- expected_values:
-    BP_A_ACT: 100.1875
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 0
-    BP_A_CMD_SUP: 0
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C41700200000C
-    7E82186000000000000
-- expected_values:
-    BP_A_ACT: 100.65625
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 0
-    BP_A_CMD_SUP: 0
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C41700200000C
-    7E82195000000000000
-- expected_values:
-    BP_A_ACT: 101.84375
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 0
-    BP_A_CMD_SUP: 0
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C41700200000C
-    7E821BB000000000000
+    7E82181000000000000
 - expected_values:
     BP_A_ACT: 102.15625
     BP_A_ACT_SUP: 1

@@ -1,0 +1,22 @@
+command_id: 7E5.221E34|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_CELL_V_MIN: 0.3431
+    AUDI_BMS_CELL_V_MIN_IDX: 0
+  response: 7ED07621E340D67000D
+- expected_values:
+    AUDI_BMS_CELL_V_MIN: 0.3583
+    AUDI_BMS_CELL_V_MIN_IDX: 0
+  response: 7ED07621E340DFF0005
+- expected_values:
+    AUDI_BMS_CELL_V_MIN: 0.3591
+    AUDI_BMS_CELL_V_MIN_IDX: 0
+  response: 7ED07621E340E070005
+- expected_values:
+    AUDI_BMS_CELL_V_MIN: 0.3644
+    AUDI_BMS_CELL_V_MIN_IDX: 0
+  response: 7ED07621E340E3C0001
+- expected_values:
+    AUDI_BMS_CELL_V_MIN: 0.3865
+    AUDI_BMS_CELL_V_MIN_IDX: 0
+  response: 7ED07621E340F190001

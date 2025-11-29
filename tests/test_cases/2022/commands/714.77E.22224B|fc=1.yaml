@@ -4,29 +4,5 @@ test_cases:
     AUDI_DASH_OIL_THERMAL_WEAR: 67
   response: 77E0562224B0043
 - expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 68
-  response: 77E0562224B0044
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 69
-  response: 77E0562224B0045
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 70
-  response: 77E0562224B0046
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 71
-  response: 77E0562224B0047
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 72
-  response: 77E0562224B0048
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 73
-  response: 77E0562224B0049
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 74
-  response: 77E0562224B004A
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 75
-  response: 77E0562224B004B
-- expected_values:
-    AUDI_DASH_OIL_THERMAL_WEAR: 76
-  response: 77E0562224B004C
+    AUDI_DASH_OIL_THERMAL_WEAR: 78
+  response: 77E0562224B004E

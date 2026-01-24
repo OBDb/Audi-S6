@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_S6"
+
 generations:
   - name: "First Generation (C4)"
     start_year: 1994
@@ -10,16 +13,26 @@ generations:
     description: "The C5 S6 was exclusively powered by a 4.2L V8 engine producing 340 HP, paired with a five-speed Tiptronic automatic transmission and quattro all-wheel drive. Available in both sedan and Avant body styles, it featured more distinctive styling elements compared to its predecessor, including polished aluminum exterior mirrors and unique wheels."
 
   - name: "Third Generation (C6)"
-    start_year: 2006
-    end_year: 2011
+    start_year: 2005
+    end_year: 2008
     description: "The C6 S6 featured a significant powertrain upgrade with a Lamborghini-derived 5.2L V10 engine producing 435 HP, paired with a six-speed Tiptronic automatic transmission. Available in sedan and Avant body styles, it featured more aggressive styling with wider fenders, distinctive front and rear bumpers, and quad exhaust tips. The V10 engine provided a unique character and exhaust note that distinguished it from competitors."
+
+  - name: "Third Generation (C6 Facelift)"
+    start_year: 2009
+    end_year: 2011
+    description: "The facelifted C6 S6 was released in late 2008 for the 2009 model year. The facelift maintained the iconic 5.2L Lamborghini-derived V10 engine but introduced updated styling elements, an upgraded MMI electronics controller (third-generation in 2010), and improved infotainment systems. The exterior retained the signature LED daytime running lights while the interior received technology enhancements and real-time traffic information capabilities."
 
   - name: "Fourth Generation (C7)"
     start_year: 2012
+    end_year: 2014
+    description: "The C7 S6 launched as a 2013 model, a year after the C7 A6. It returned to V8 power with a twin-turbocharged 4.0L engine producing 420 HP, paired with a seven-speed S tronic dual-clutch transmission. Built on the C7 platform, it featured cylinder deactivation technology for improved fuel efficiency. The exterior continued the tradition of subtle performance enhancements while the interior offered a blend of luxury and sportiness with distinctive S elements."
+
+  - name: "Fourth Generation (C7 Facelift)"
+    start_year: 2015
     end_year: 2018
-    description: "The C7 S6 returned to V8 power with a twin-turbocharged 4.0L engine producing 420 HP (later increased to 450 HP), paired with a seven-speed S tronic dual-clutch transmission. Built on the MLB platform, it featured cylinder deactivation technology for improved fuel efficiency. The exterior continued the tradition of subtle performance enhancements while the interior offered a blend of luxury and sportiness with distinctive S elements."
+    description: "Audi unveiled the 2015 S6 facelift in November 2014. Changes included styling tweaks to the exterior, an upgraded Multi Media Interface with faster Nvidia Tegra 3 processor and improved graphics with handwriting recognition, Audi connect telematics with 4G mobile internet and map updates, adaptive glare-free Matrix LED headlights, and an improved Night Vision Assistant. The 4.0L twin-turbo V8 was upgraded from 420 HP to 450 HP, and both TFSI petrol and all three TDI diesel engines now met the Euro 6 emission standard."
 
   - name: "Fifth Generation (C8)"
-    start_year: 2019
+    start_year: 2018
     end_year: null
-    description: "The current C8 S6 represents a significant departure from tradition in some markets, featuring a twin-turbocharged 2.9L V6 petrol engine in some regions and a 3.0L V6 TDI diesel with electric compressor in others. Power outputs range from 344 HP to 450 HP depending on the market and engine. The exterior features more distinctive S-specific styling elements than previous generations, while the interior offers Audi's latest technology including dual touchscreens and digital instrumentation. Throughout its evolution, the S6 has balanced impressive performance with everyday usability and understated luxury."
+    description: "The current C8 S6 represents a significant departure, with different powertrains by market. The 2.9L twin-turbocharged V6 petrol TFSI produces 331 PS (450 HP) with a 48V mild-hybrid system for global markets, while European models feature a 3.0L turbocharged diesel V6 producing 253 PS (250 HP) with an electric compressor. Both configurations are paired with an 8-speed automatic Tiptronic transmission. The exterior features more distinctive S-specific styling elements than previous generations, while the interior offers Audi's latest technology including dual touchscreens and digital instrumentation. The C8 is built on the MLB Evo platform and went on sale in summer 2019 for European models."

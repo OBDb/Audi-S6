@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221135
+test_cases:
+- expected_values:
+    AUDI_COOLANT_T: 90.9
+  response: 7E8056211350E38
+- expected_values:
+    AUDI_COOLANT_T: 91
+  response: 7E8056211350E39
+- expected_values:
+    AUDI_COOLANT_T: 103.8
+  response: 7E8056211350EB9
+- expected_values:
+    AUDI_COOLANT_T: 103.9
+  response: 7E8056211350EBA
+- expected_values:
+    AUDI_COOLANT_T: 104.7
+  response: 7E8056211350EC2
+- expected_values:
+    AUDI_COOLANT_T: 104.8
+  response: 7E8056211350EC3
+- expected_values:
+    AUDI_COOLANT_T: 104.9
+  response: 7E8056211350EC4
+- expected_values:
+    AUDI_COOLANT_T: 105
+  response: 7E8056211350EC5

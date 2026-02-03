@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221213
+test_cases:
+- expected_values:
+    AUDI_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E80762121300005D69
+- expected_values:
+    AUDI_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E8076212130000D3FE
+- expected_values:
+    AUDI_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E8076212130000EC01
+- expected_values:
+    AUDI_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E8076212130000FBC2
+- expected_values:
+    AUDI_PQ35_ENVD_CAM_IN_1: 0
+  response: '7E80762121300010159'

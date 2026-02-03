@@ -13,6 +13,6 @@ test_cases:
     AUDI_ODO_V3: 54784
   response: 7E8076210E00000D600
 - expected_values:
-    AUDI_ODO_2_V2: 58624
-    AUDI_ODO_V3: 58624
-  response: 7E8076210E00000E500
+    AUDI_ODO_2_V2: 58880
+    AUDI_ODO_V3: 58880
+  response: 7E8076210E00000E600

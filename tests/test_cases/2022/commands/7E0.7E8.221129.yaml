@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_COMPRESSION_TEST_CYL_1: 0
   response: '7E8056211290000'
 - expected_values:
+    AUDI_PQ35_COMPRESSION_TEST_CYL_1: 9
+  response: '7E8056211290012'
+- expected_values:
     AUDI_PQ35_COMPRESSION_TEST_CYL_1: 10
   response: '7E8056211290014'
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_COMPRESSION_TEST_CYL_1: 13.5
   response: 7E805621129001B
+- expected_values:
+    AUDI_PQ35_COMPRESSION_TEST_CYL_1: 16
+  response: '7E8056211290020'

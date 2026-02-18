@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_SELECTED_GEAR: 1
   response: 7E8056215AA01A4
 - expected_values:
-    AUDI_PQ35_SELECTED_GEAR: 3
-  response: 7E8056215AA03FE
+    AUDI_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA02FF
 - expected_values:
     AUDI_PQ35_SELECTED_GEAR: 7
   response: 7E8056215AA0701

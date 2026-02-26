@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_SRV_REGEN_STAT: 3
   response: 7E80562115C0322
 - expected_values:
+    AUDI_PQ35_SRV_REGEN_STAT: 3
+  response: 7E80562115C03C8
+- expected_values:
     AUDI_PQ35_SRV_REGEN_STAT: 4
   response: 7E80562115C0418
 - expected_values:

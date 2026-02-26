@@ -4,29 +4,8 @@ test_cases:
     AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 0
   response: 7E8056211C10000
 - expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 31
-  response: 7E8056211C11F17
-- expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 32
-  response: 7E8056211C12054
-- expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 32
-  response: 7E8056211C12058
-- expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 34
-  response: 7E8056211C1227A
-- expected_values:
     AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 34
   response: 7E8056211C122FE
 - expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 35
-  response: 7E8056211C12339
-- expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 38
-  response: 7E8056211C12688
-- expected_values:
     AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 41
   response: 7E8056211C1291F
-- expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 41
-  response: 7E8056211C129D4

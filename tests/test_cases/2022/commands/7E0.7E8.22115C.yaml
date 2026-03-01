@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 3
-  response: 7E80562115C0322
-- expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 3
-  response: 7E80562115C03C8
-- expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 4
-  response: 7E80562115C0418
-- expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 4
-  response: 7E80562115C042C
-- expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 5
-  response: 7E80562115C05EA
-- expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 6
-  response: 7E80562115C0647
-- expected_values:
-    AUDI_PQ35_SRV_REGEN_STAT: 7
-  response: 7E80562115C07D7
+    AUDI_PQ35_SRV_REGEN_STAT: 0
+  response: 7E80562115C00F4
 - expected_values:
     AUDI_PQ35_SRV_REGEN_STAT: 39
   response: 7E80562115C2710

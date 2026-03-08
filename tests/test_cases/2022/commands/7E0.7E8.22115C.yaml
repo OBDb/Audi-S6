@@ -2,6 +2,9 @@ command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
     AUDI_PQ35_SRV_REGEN_STAT: 0
+  response: 7E80562115C005B
+- expected_values:
+    AUDI_PQ35_SRV_REGEN_STAT: 0
   response: 7E80562115C00F4
 - expected_values:
     AUDI_PQ35_SRV_REGEN_STAT: 39

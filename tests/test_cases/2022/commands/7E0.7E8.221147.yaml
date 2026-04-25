@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_1000REV_C1: 2
   response: '7E8056211470002'
+- expected_values:
+    AUDI_MISFIRES_1000REV_C1: 4
+  response: '7E8056211470004'

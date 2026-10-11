@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.220302
 test_cases:
 - expected_values:
-    AUDI_DRIVE_TIME: 791.25
+    S6_DRIVE_TIME: 791.25
   response: 7E9056203020C5D
 - expected_values:
-    AUDI_DRIVE_TIME: 831.75
+    S6_DRIVE_TIME: 831.75
   response: 7E9056203020CFF
 - expected_values:
-    AUDI_DRIVE_TIME: 832
+    S6_DRIVE_TIME: 832
   response: 7E9056203020D00
 - expected_values:
-    AUDI_DRIVE_TIME: 896
+    S6_DRIVE_TIME: 896
   response: 7E9056203020E00

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221153
+test_cases:
+- expected_values:
+    S6_EM_TORQ_1: 24.59375
+  response: '7E8056211530313'
+- expected_values:
+    S6_EM_TORQ_1: 31.96875
+  response: 7E80562115303FF
+- expected_values:
+    S6_EM_TORQ_1: 32
+  response: '7E8056211530400'
+- expected_values:
+    S6_EM_TORQ_1: 40
+  response: '7E8056211530500'

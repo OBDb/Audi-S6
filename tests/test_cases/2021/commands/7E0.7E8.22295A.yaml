@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22295A
 test_cases:
 - expected_values:
-    AUDI_ODO: 162
-    AUDI_ODO_2: 41650
+    S6_ODO_ECM: 162
   response: 7E80762295A0000A2B2
 - expected_values:
-    AUDI_ODO: 162
-    AUDI_ODO_2: 41727
+    S6_ODO_ECM: 162
   response: 7E80762295A0000A2FF
 - expected_values:
-    AUDI_ODO: 163
-    AUDI_ODO_2: 41728
+    S6_ODO_ECM: 163
   response: 7E80762295A0000A300
 - expected_values:
-    AUDI_ODO: 166
-    AUDI_ODO_2: 42496
+    S6_ODO_ECM: 166
   response: 7E80762295A0000A600

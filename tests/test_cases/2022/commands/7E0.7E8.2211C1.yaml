@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211C1
 test_cases:
 - expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 0
+    S6_PARTICLE_FLT_FIELD_REGEN: 0
   response: 7E8056211C10000
 - expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 34
+    S6_PARTICLE_FLT_FIELD_REGEN: 34
   response: 7E8056211C122FE
 - expected_values:
-    AUDI_PQ35_DPF_FIELD_REGEN_LOCK: 41
+    S6_PARTICLE_FLT_FIELD_REGEN: 41
   response: 7E8056211C1291F
